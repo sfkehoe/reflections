@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By showing the original and new files in line with each other. By picking
+	out only the lines of the files or pieces of code that were had changes and
+	showing both versions it allowed me to easily spot where changes had been 
+	made.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to the entire history shows the development of the project
+	over time. It will also allow me to roll back to previous versions with-
+	out having to rewrite them entirely. Deprecated functions can also be b-
+	rought back if needed without having to rebuild them.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:
+	- Commits are logical, attached to changes that aren't too big or small
+	- Commit history won't get cluttered
+	- Commits won't be made in middle of building something
+	
+	Con:
+	- User error, waiting too long or committing too often.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Google Docs isn't generally used for interelated files or project that requ-
+	re them. Git repositories are code projects using multiple files where a si-
+	gle change may require changes to multiple files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log gives a reverse chronological order of the repository which acts as
+	a history of the project. Each commit has a commit id which. Using git diff
+	id1 id2 gives the changes from the first to second commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It will allow me to easily roll back to previous versions of codes and disc-
+	over where bugs have been introduced to the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use git to manage version control for my projects. I also want to
+	use github to develop a portfolio of projects to start a programming career.
