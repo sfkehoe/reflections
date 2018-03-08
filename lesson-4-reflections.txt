@@ -26,7 +26,11 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+	The system is able to use this state to make inferences about how far
+	ahead or behind the local project is compared to the remote, it also
+	doesn't require internet access to do so. This allows remote users to
+	take a copy of the project to work on in locations that don't have
+	internet access.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
