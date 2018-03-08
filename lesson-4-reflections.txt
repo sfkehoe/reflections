@@ -35,8 +35,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
-
+	With
+		Easier
+			Keeping track of changes to a project by person on it. The ability
+			to review changes before committing them to the main project.
+		Harder
+			Getting projects from person to person in fewer steps.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
